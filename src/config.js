@@ -1,3 +1,3 @@
 export default {
-  API_ENDPOINT: 'http://localhost:8080/api'
+  API_ENDPOINT: 'https://fathomless-peak-98641.herokuapp.com/api'
 }
